@@ -77,6 +77,7 @@ int main() {
 
     int resultado = powMod(a, x, n1);  
     printf("Valor final da congruência: %d\n", resultado);
+    printf("Caso os valores tenham de entrada tenham sido H = 15, G = 7, Zn = 26, x = 3, n1 = 13, o resultado final é 4.\n");
 
     return 0;
 }
