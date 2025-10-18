@@ -56,7 +56,7 @@ int main() {
 #endif
 
     int H, G, Zn, x, n1;
-
+    printf("Questão 4 - Matemática Discreta 2 \nAluno: Bruno Dantas (241012104) \nAluno: Nicole Jovita (241012347) \n\n");
     printf("Insira H: ");
     scanf("%d", &H);
     printf("Insira G: ");

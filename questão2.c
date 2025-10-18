@@ -36,7 +36,7 @@ int main() {
         int N; // Número de chaves (1 <= N <= 10)
     int C[MAX_CHAVES]; // Vetor para armazenar os ciclos (2 <= C_i <= 20)
     int leitura_valida; // Variável para controlar o loop de validação
-
+    printf("Questão 2 - Matemática Discreta 2 \nAluno: Bruno Dantas (241012104) \nAluno: Nicole Jovita (241012347) \n\n");
     printf("  RESOLUTOR: SINCRONIZAÇÃO DE CHAVES (CÁLCULO DE MMC)   \n");
     
     // ----------------------------------------------------
